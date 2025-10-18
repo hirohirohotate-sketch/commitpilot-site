@@ -10,6 +10,4 @@ description: Chat to GitHub PR (Public Beta)
 
 ## Quick try このする。
 
-
-{% raw |%}
-```commit\npath=README.md\nmessage=chore: smoke test\nmode=append\n```\n```md\n​ CommitPilot smoke test ╯ {{now}}.\n```\n{% endraw\%}
+<pre><code>``commit\npath=README.md\nmessage=chore: smoke test\nmode=append\n```\n```md\n  CommitPilot smoke test ╯ {{now}}.\n```</code></pre>
