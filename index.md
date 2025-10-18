@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Quick try | CommitPilot"
+permalink: /quick-try/
+description: "1分で「チャット→PR」を体験。Free: 1 file / 512KB / PR-first / 危険パス拒否。"
+last_updated: 2025-10-19
+---
+
 # Quick try（1分）
 
 CommitPilot は、**チャットだけで GitHub に PR を作る**ツールです。  
