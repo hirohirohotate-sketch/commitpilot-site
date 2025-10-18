@@ -19,7 +19,7 @@ Free モードは **1ファイル / 512KB / PR-first / 危険パス拒否**。�
 ## 前提（最小）
 - GitHub アカウントにログイン済み
 - （初回のみ）GPT で **GitHub を OAuth 接続（`repo`）**
-- 触るリポ（例：`hirohirohotate-sketch/Nestly`）があること  
+- 触るリポ（例：`username/branch-name`）があること  
   - 推奨：`main` は **ブランチ保護（PR必須）**
 
 ---
